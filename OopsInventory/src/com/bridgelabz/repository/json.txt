@@ -1,0 +1,1 @@
+[{"Price":100,"weight":24,"Name":"wheet"},{"Price":150,"weight":25,"Name":"rice"},{"Price":50,"weight":20,"Name":"pulses"}]
